@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24add992-0699-404e-9730-cfada1086ef3" name="Changes" comment="less1 and HW-1;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="24add992-0699-404e-9730-cfada1086ef3" name="Changes" comment="less1 and HW-1;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Vova181078/July-2024-JS.git",
+    "accountId": "c0e948fa-d56b-41b8-8297-81f84537f67b"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/homeworks/HW-1/hw.html" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -67,7 +71,7 @@
       <updated>1730631944277</updated>
       <workItem from="1730631945321" duration="4725000" />
       <workItem from="1730812211679" duration="6788000" />
-      <workItem from="1730820135634" duration="135000" />
+      <workItem from="1730820135634" duration="450000" />
     </task>
     <task id="LOCAL-00001" summary="less1 and HW-1;">
       <option name="closed" value="true" />
@@ -85,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730820040244</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="less1 and HW-1;">
+      <option name="closed" value="true" />
+      <created>1730820322392</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730820322392</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
