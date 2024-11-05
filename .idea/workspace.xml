@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24add992-0699-404e-9730-cfada1086ef3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept-2024-JS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/HW-1/hw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/less1-varios and prototypes" afterDir="false" />
-    </list>
+    <list default="true" id="24add992-0699-404e-9730-cfada1086ef3" name="Changes" comment="less1 and HW-1;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/homeworks/HW-1/hw.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -69,8 +64,17 @@
       <option name="presentableId" value="Default" />
       <updated>1730631944277</updated>
       <workItem from="1730631945321" duration="4725000" />
-      <workItem from="1730812211679" duration="5099000" />
+      <workItem from="1730812211679" duration="5757000" />
     </task>
+    <task id="LOCAL-00001" summary="less1 and HW-1;">
+      <option name="closed" value="true" />
+      <created>1730818722320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730818722320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="less1 and HW-1;" />
+    <option name="LAST_COMMIT_MESSAGE" value="less1 and HW-1;" />
   </component>
 </project>
