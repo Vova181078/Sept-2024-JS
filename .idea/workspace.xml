@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24add992-0699-404e-9730-cfada1086ef3" name="Changes" comment="less1 and HW-1;">
+      <change afterPath="$PROJECT_DIR$/homeworks/HW-2/hw.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,24 +17,25 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Vova181078"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vova181078&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Vova181078/July-2024-JS.git",
-    "accountId": "c0e948fa-d56b-41b8-8297-81f84537f67b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vova181078/July-2024-JS.git&quot;,
+    &quot;accountId&quot;: &quot;c0e948fa-d56b-41b8-8297-81f84537f67b&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/homeworks/HW-1/hw.html" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -79,7 +81,9 @@
       <updated>1730631944277</updated>
       <workItem from="1730631945321" duration="4725000" />
       <workItem from="1730812211679" duration="6788000" />
-      <workItem from="1730820135634" duration="2191000" />
+      <workItem from="1730820135634" duration="8960000" />
+      <workItem from="1730904212658" duration="2336000" />
+      <workItem from="1730906608595" duration="11137000" />
     </task>
     <task id="LOCAL-00001" summary="less1 and HW-1;">
       <option name="closed" value="true" />
@@ -113,7 +117,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730821128558</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="less1 and HW-1;">
+      <option name="closed" value="true" />
+      <created>1730824385594</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730824385594</updated>
+    </task>
+    <task id="LOCAL-00006" summary="less1 and HW-1;">
+      <option name="closed" value="true" />
+      <created>1730824466021</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730824466021</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
