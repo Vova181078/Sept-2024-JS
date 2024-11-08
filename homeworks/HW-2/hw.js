@@ -22,8 +22,7 @@ let forAgreements = {
 console.log(forAgreements);
 
 let thinkAndRich ={
-    title: 'Think and Rich',
-    pagges: 1020,
+    title: 'Think and Rich',    pagges: 1020,
     genre: 'action',
 }
 console.log(thinkAndRich);
