@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24add992-0699-404e-9730-cfada1086ef3" name="Changes" comment="less1 and HW-1;&#10;less2 and HW-2">
-      <change afterPath="$PROJECT_DIR$/homeworks/HW-3/additional-1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/HW-3/hw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/HW-3/hw.js" afterDir="false" />
+    <list default="true" id="24add992-0699-404e-9730-cfada1086ef3" name="Changes" comment="less1 and HW-1;&#10;less2 and HW-2;&#10;less3 and HW-3;">
+      <change afterPath="$PROJECT_DIR$/lessons/less2-arrays_object_if" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/less3-loops" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +91,7 @@
       <workItem from="1731075401200" duration="156000" />
       <workItem from="1731075709635" duration="1032000" />
       <workItem from="1731082160611" duration="18118000" />
-      <workItem from="1731199453311" duration="1138000" />
+      <workItem from="1731199453311" duration="4312000" />
     </task>
     <task id="LOCAL-00001" summary="less1 and HW-1;">
       <option name="closed" value="true" />
@@ -230,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731084481158</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="less1 and HW-1;&#10;less2 and HW-2;&#10;less3 and HW-3;">
+      <option name="closed" value="true" />
+      <created>1731252688159</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1731252688159</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +257,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="less1 and HW-1;" />
     <MESSAGE value="less1 and HW-1;&#10;less2 and HW-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="less1 and HW-1;&#10;less2 and HW-2" />
+    <MESSAGE value="less1 and HW-1;&#10;less2 and HW-2;&#10;less3 and HW-3;" />
+    <option name="LAST_COMMIT_MESSAGE" value="less1 and HW-1;&#10;less2 and HW-2;&#10;less3 and HW-3;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
