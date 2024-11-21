@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24add992-0699-404e-9730-cfada1086ef3" name="Changes" comment="less1 and HW-1;&#10;less2 and HW-2;&#10;less3 and HW-3;&#10;Add to less 2-3;&#10;HW-4 part.1 function;&#10;HW-5 part.2 function;&#10;HW-6 part.3 functionArrays;">
+    <list default="true" id="24add992-0699-404e-9730-cfada1086ef3" name="Changes" comment="less1 and HW-1;&#10;less2 and HW-2;&#10;less3 and HW-3;&#10;Add to less 2-3;&#10;HW-4 part.1 function;&#10;HW-5 part.2 function;&#10;HW-6 part.3 functionArrays;&#10;HW-3 rename for HW-3_loops">
+      <change afterPath="$PROJECT_DIR$/homeworks/HW-7_classes_constructors/hw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/HW-7_classes_constructors/hw.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +98,7 @@
       <workItem from="1731277127898" duration="806000" />
       <workItem from="1731278054784" duration="958000" />
       <workItem from="1731279069194" duration="55874000" />
-      <workItem from="1731846738301" duration="17796000" />
+      <workItem from="1731846738301" duration="43851000" />
     </task>
     <task id="LOCAL-00001" summary="less1 and HW-1;">
       <option name="closed" value="true" />
@@ -274,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731871389031</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="less1 and HW-1;&#10;less2 and HW-2;&#10;less3 and HW-3;&#10;Add to less 2-3;&#10;HW-4 part.1 function;&#10;HW-5 part.2 function;&#10;HW-6 part.3 functionArrays;&#10;HW-3 rename for HW-3_loops">
+      <option name="closed" value="true" />
+      <created>1731929371826</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1731929371826</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +309,8 @@
     <MESSAGE value="less1 and HW-1;&#10;less2 and HW-2;&#10;less3 and HW-3;&#10;Add to less 2-3;&#10;HW-4 part.1;" />
     <MESSAGE value="less1 and HW-1;&#10;less2 and HW-2;&#10;less3 and HW-3;&#10;Add to less 2-3;&#10;HW-4 part.1 function;&#10;HW-5 part.2 function;" />
     <MESSAGE value="less1 and HW-1;&#10;less2 and HW-2;&#10;less3 and HW-3;&#10;Add to less 2-3;&#10;HW-4 part.1 function;&#10;HW-5 part.2 function;&#10;HW-6 part.3 functionArrays;" />
-    <option name="LAST_COMMIT_MESSAGE" value="less1 and HW-1;&#10;less2 and HW-2;&#10;less3 and HW-3;&#10;Add to less 2-3;&#10;HW-4 part.1 function;&#10;HW-5 part.2 function;&#10;HW-6 part.3 functionArrays;" />
+    <MESSAGE value="less1 and HW-1;&#10;less2 and HW-2;&#10;less3 and HW-3;&#10;Add to less 2-3;&#10;HW-4 part.1 function;&#10;HW-5 part.2 function;&#10;HW-6 part.3 functionArrays;&#10;HW-3 rename for HW-3_loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="less1 and HW-1;&#10;less2 and HW-2;&#10;less3 and HW-3;&#10;Add to less 2-3;&#10;HW-4 part.1 function;&#10;HW-5 part.2 function;&#10;HW-6 part.3 functionArrays;&#10;HW-3 rename for HW-3_loops" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
