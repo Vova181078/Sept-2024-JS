@@ -1,0 +1,29 @@
+.item {
+ background-color: blue;
+}
+
+.heading {
+    color: yellow;
+
+}
+.description {
+     color: red;
+
+}
+
+
+.wrap {
+   width: 100px;
+}
+
+.collapse  {
+     color: brown;
+}
+
+.alpha {
+     background-color: antiquewhite;
+}
+
+.beta  {
+  text-align: center;
+}
