@@ -1,0 +1,22 @@
+#text {
+
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    padding: 20px;
+    background-color: antiquewhite;
+}
+#age {
+    margin-top: 100px;
+}
+form {
+
+    margin: 20px;
+}
