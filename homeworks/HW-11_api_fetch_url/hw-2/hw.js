@@ -37,6 +37,10 @@ fetch('https://dummyjson.com/recipes?limit=50')
 
             }
 
-            infoRecipes.appendChild(recipeDiv);
 
+            infoRecipes.appendChild(recipeDiv);
         };
+
+
+
+
